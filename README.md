@@ -1,2 +1,2 @@
 # Pytorch-Tutorial
-materials frim codemy.com youtube
+materials from codemy.com youtube
